@@ -20,10 +20,11 @@ body {
 }
 
 .content {
-    min-height: calc(100vh - 100px);
-    width: 720px;
+    min-height: calc(100vh - 140px);
+    width: 760px;
     max-width: 100%;
     margin: auto;
+    padding: 20px;
 }
 
 .section {
