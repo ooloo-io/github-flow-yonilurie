@@ -1,14 +1,14 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
 }
 
 .header {
-  height: 49px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-bottom: 1px solid black;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
 }
 
 .footer {
@@ -16,7 +16,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .content {
